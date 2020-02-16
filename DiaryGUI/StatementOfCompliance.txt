@@ -1,0 +1,18 @@
+Statement of Compliance
+=======================
+
+*** For guidance, see the section "Testing and Statement of Compliance" in your coursework specifications. ***
+
+Requirement#1 Main Window Content - Fully implemented,working and tested.
+
+Requirement#2 Closing the System - Fully implemented,working and tested.
+
+Requirement#3 Personal Diary - Fully implemented,working and tested.
+
+Requirement#4 Appointments - Fully implemented,working and tested.
+
+Requirement#5 Saving Appointments to a Text File - Fully implemented,working and tested.
+
+Requirement#6 Loading Appointments from a Text File - Fully implemented,working and tested.
+
+Requirement#7 Search for Appointments - Fully implemented,working and tested.
